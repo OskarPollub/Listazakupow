@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lista Zakupów</string>
+    <string name="tytul_listy">Moje Zakupy</string>
+    <string name="tytul_formularza">Nowy Produkt</string>
+    <string name="tytul_statystyk">Statystyki</string>
+    <string name="tytul_ustawien">Ustawienia</string>
+    <string name="zakladka_lista">Lista</string>
+    <string name="zakladka_statystyki">Statystyki</string>
+    <string name="zakladka_ustawienia">Ustawienia</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="anuluj">Anuluj</string>
+    <string name="blad_nazwa">Nazwa jest wymagana</string>
+</resources>
